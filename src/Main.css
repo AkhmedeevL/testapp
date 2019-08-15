@@ -1,0 +1,67 @@
+.authorizationWindow{
+    width: auto;
+    height: auto;
+    background-color: ghostwhite;
+    margin: 0 auto ;
+    text-align: center;
+    border:  2px solid lightgrey;
+
+}
+.authorizationText{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+.AuthButton{
+    margin-bottom: 30px;
+}
+
+#my_camera{
+    width: 320px;
+    height: 240px;
+    border: 1px solid black;
+}
+
+.wallPostWindow{
+    width: auto;
+    height: auto;
+    background-color: ghostwhite;
+    margin: 50px auto;
+    text-align: center;
+    border:  2px solid lightgrey;
+}
+.wallPostText{
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.logoutButton{
+    margin-left: auto;
+}
+.uploader{
+    margin-top: 30px;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: auto;
+
+    height: 350px;
+}
+.takePhotoBlock{
+    margin-top: 30px;
+    margin-left: auto;
+    text-align: center;
+    padding-bottom: 30px;
+
+}
+.textBlock{
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.buttonPost{
+    padding-top:10px;
+    padding-bottom: 30px;
+}
